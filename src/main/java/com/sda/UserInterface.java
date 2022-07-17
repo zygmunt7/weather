@@ -12,13 +12,6 @@ public class UserInterface {
             System.out.println("Witaj w aplikacji pogodowej\n 1. Dodać nowy wpis\n 0. Zamknać aplikację");
                       int option = scanner.nextInt();
 
-            switch (option) {
-                case 1:
-
-                    break;
-                case 0:
-                    return;
-            }
         }
 
     }
